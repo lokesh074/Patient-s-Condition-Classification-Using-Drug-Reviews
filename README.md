@@ -30,5 +30,6 @@ Maximum step size (regularization). Defaults to 1.0.
 <br />
 <br />
 Regularization refers to techniques that are used to calibrate machine learning models in order to minimize the adjusted loss function and prevent overfitting or underfitting. Using Regularization, we can fit our machine learning model appropriately on a given test set and hence reduce the errors in it.
+![Screenshot (638)](https://user-images.githubusercontent.com/91384498/210129656-6291c600-5864-4ddc-8930-9abd3ced09be.png)
 
 
