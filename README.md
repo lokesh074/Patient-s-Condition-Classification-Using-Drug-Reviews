@@ -6,7 +6,7 @@ based on their reviews on drugs. <br />
 We used BoW and TFIDF technique  to check which technique would be better <br />
 
 # Machine Learning Model 
-we used Naive Bayes & PassiveAggressiveClassifier
+we used Naive Bayes & PassiveAggressiveClassifier <br />
 MuitlinomialNB used for NLP applications that we have used in this Project
 
 # TF_IDF = 
