@@ -11,7 +11,8 @@ MuitlinomialNB used for NLP applications that we have used in this Project
 
 # TF_IDF = 
 TF-IDF stands for term frequency-inverse document frequency and it is a measure, used in the fields of information retrieval (IR) and machine learning, that can quantify the importance or relevance of string representations (words, phrases, lemmas, etc) in a document amongst a collection of documents.
-BoW = Bag of Words (BOW) is one way of modeling text data for machine learning. This is the basic form of representing the text into numbers. Tokenized sentence is represented by an array of frequency of each word from the dictionary in the sentence <br />
+# BoW = 
+Bag of Words (BOW) is one way of modeling text data for machine learning. This is the basic form of representing the text into numbers. Tokenized sentence is represented by an array of frequency of each word from the dictionary in the sentence <br />
 
 Bow fits for small dataset .
 
